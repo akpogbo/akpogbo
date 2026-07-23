@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Jonathan👋
 
-<!--
-**akpogbo/akpogbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer
 
-Here are some ideas to get you started:
+I build scalable data pipelines, modern data platforms and large scale data systems. My expertise spans cloud technologies, distributed data processing, data modeling and modern data platform engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**: Python, SQL
+
+**Data Platforms:** Snowflake, Apache Airflow, dbt, databricks, Apache spark, Kafka
+
+**Cloud and Infrastructure**: AWS, Docker, Git, Github, CI/CD
+
+**Analytics & BI**: Tableau, Power BI
+
+Lakehouse architecture, system design, distributed systems
+
+## Connect with me
+chrisjonathan602@gmail.com
